@@ -6,5 +6,5 @@ I'm currently mastering CSS and JavaScript for basic front-end UI. The reason I 
 ### More about me:
 - 🇵🇭 I am a Filipino Teenager. I am still in High School too.
 - 🐦 You can visit my Twitter here [@lancerossdev](https://twitter.com/lancerossdev).
-- 🌐 I have a really cool website! You can visit it [here](https://lonsy.xyz).
-- 📫 Send an email to me: `lance at lonsy.xyz`
+- 🌐 I have a really cool website! You can visit it [here](https://lanceross.xyz).
+- 📫 Send an email to me: `lance at lanceross.xyz`
