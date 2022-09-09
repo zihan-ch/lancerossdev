@@ -1,7 +1,7 @@
 ## Hey there! I'm Lance Ross 👋
-I am an aspiring Front-end JavaScript web developer in the Philippines building different Web applications for fun. I'm currently learning [Angular](https://angular.io) and [Firebase](https://firebase.google.com) which are my favorite tools for Web development by Google. I enjoy building projects using good ol' HTML, CSS, and JavaScript. I also use many front-end frameworks like Bootstrap and Angular.
+I am an aspiring Front-end JavaScript web developer in the Philippines building different Web applications for fun. I'm currently learning [Tailwind](https://tailwindcss.com) and [Firebase](https://firebase.google.com) which are my favorite tools. I enjoy building projects using good ol' HTML, CSS, and JavaScript. I will also use front-end frameworks like React and Svelte which I'm going to learn soon.
 
-When not busy with doing web development stuff, I play different video games, plays guitar, and does exercises.
+When not busy with doing web development stuff, I play different video games, try to how to play a guitar, and does exercises every other day. 
 
 ### More about me:
 - I am a Filipino Teenager who is interested with JavaScript.
