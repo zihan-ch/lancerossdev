@@ -1,11 +1,13 @@
-## Hey there! I'm Lance Ross 👋
-I am an aspiring Front-end JavaScript web developer in the Philippines building different Web applications for fun. I'm currently learning [Tailwind](https://tailwindcss.com) and [Firebase](https://firebase.google.com) which are my favorite tools. I enjoy building projects using good ol' HTML, CSS, and JavaScript. I will also use front-end frameworks like React and Svelte which I'm going to learn soon.
+### Hello! I'm Lance Ross 👋
 
-When not busy with doing web development stuff, I play different video games, try to how to play a guitar, and does exercises every other day. 
+I'm an aspiring Frontend Web Developer from the Philippines. I enjoy building projects using good ol' HTML, CSS, and JavaScript. I started learning more stuff about computers when I was 13 years old and decided to get a job in Web Development field when I grow up.
 
-### More about me:
-- I am a Filipino Teenager who is interested with JavaScript.
-- You can visit my Twitter here [@lancerossdev](https://twitter.com/lancerossdev).
-- I also have my own blog at Dev Community [@lancerossdev](https://dev.to/lanceross).
-- I have a really cool website! You can visit it here at [lanceross.xyz](https://lanceross.xyz).
-- Send an email to me: `lance at lanceross.xyz`
+I create websites when I have free time after school. When not busy with doing projects and schoolworks, I play different video games, try to how to play a guitar, and does exercises every other day.
+
+### More info about me 👨‍💻
+
+- ⚙ I am a Filipino Teenager who is interested with JavaScript and anything related to web dev.
+- 🐦 You can visit my Twitter here [@lancerossdev](https://twitter.com/lancerossdev). I usually tweet about my #100DaysOfCode.
+- 📝 I also have my own blog at Dev Community [@lancerossdev](https://dev.to/lanceross). I don't post very often though.
+- 🚀 I have a really cool website! You can visit it here at [lanceross.xyz](https://lanceross.xyz). It is made with [Astro](https://astro.build) and Sass.
+- 📭 If you want to say hi to me, feel free to send an email to me at `lance (at) lanceross (dot) xyz`.
