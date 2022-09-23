@@ -1,13 +1,20 @@
-### Hello! I'm Lance Ross 👋
+# Hello! I'm Lance Ross 👋
 
-I'm an aspiring Frontend Web Developer from the Philippines. I enjoy building projects using good ol' HTML, CSS, and JavaScript. I started learning more stuff about computers when I was 13 years old and decided to get a job in Web Development field when I grow up.
+- 👨‍💻 I am a Filipino Teenager who likes Web development
+- 🐦 You can visit my Twitter here [@lancerossdev](https://twitter.com/lancerossdev)
+- 📝 I also have my own blog at Dev.to [@lancerossdev](https://dev.to/lanceross)
+- 🚀 I have a really cool website at [lanceross.xyz](https://lanceross.xyz)
 
-I create websites when I have free time after school. When not busy with doing projects and schoolworks, I play different video games, try to how to play a guitar, and does exercises every other day.
+## Stuffs that I use 🔨
 
-### More info about me 👨‍💻
+![HTML](https://img.shields.io/badge/html-%23EEE.svg?style=for-the-badge&logo=html5&color=0d1016)
+![CSS](https://img.shields.io/badge/css-%23EEE.svg?style=for-the-badge&logo=css3&logoColor=1572b6&color=0d1016)
+![Javascript](https://img.shields.io/badge/javascript-%23EEE.svg?style=for-the-badge&logo=javascript&color=0d1016)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=0d1016)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=aqua&color=0d1016)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green&color=0d1016)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow&color=0d1016)
 
-- ⚙ I am a Filipino Teenager who is interested with JavaScript and anything related to web dev.
-- 🐦 You can visit my Twitter here [@lancerossdev](https://twitter.com/lancerossdev). I usually tweet about my #100DaysOfCode.
-- 📝 I also have my own blog at Dev Community [@lancerossdev](https://dev.to/lanceross). I don't post very often though.
-- 🚀 I have a really cool website! You can visit it here at [lanceross.xyz](https://lanceross.xyz). It is made with [Astro](https://astro.build) and Sass.
-- 📭 If you want to say hi to me, feel free to send an email to me at `lance (at) lanceross (dot) xyz`.
+## GitHub Stats ⚡
+
+[![Lance Ross' GitHub Stats](https://github-readme-stats.vercel.app/api?username=lancerossdev&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
