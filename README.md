@@ -1,20 +1,30 @@
-# Hello! I'm Lance Ross 👋
+### Hello! I'm Lance Ross 👋
 
-- 👨‍💻 I am a Filipino Teenager who likes Web development
-- 🐦 You can visit my Twitter here [@lancerossdev](https://twitter.com/lancerossdev)
-- 📝 I also have my own blog at Dev.to [@lancerossdev](https://dev.to/lanceross)
-- 🚀 I have a really cool website at [lanceross.xyz](https://lanceross.xyz)
+- 👨‍💻 I am a Student Front-End Web Developer. Will I try Back-End Development? Soon, maybe.
+- 🌱 I really love to help big and small open source projects out there because it makes me happy.
+- ⚡ I also love learning new technologies and frameworks. Should I try Solid and Vue soon? 😅
 
-## Stuffs that I use 🔨
+### Tech Stack ⚡
 
-![HTML](https://img.shields.io/badge/html-%23EEE.svg?style=for-the-badge&logo=html5&color=0d1016)
-![CSS](https://img.shields.io/badge/css-%23EEE.svg?style=for-the-badge&logo=css3&logoColor=1572b6&color=0d1016)
-![Javascript](https://img.shields.io/badge/javascript-%23EEE.svg?style=for-the-badge&logo=javascript&color=0d1016)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=0d1016)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=aqua&color=0d1016)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green&color=0d1016)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow&color=0d1016)
+These are the technologies that I use on my projects.
 
-## GitHub Stats ⚡
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Lance Ross' GitHub Stats](https://github-readme-stats.vercel.app/api?username=lancerossdev&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0d1117?style=for-the-badge&logo=astro&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-0d1117?style=for-the-badge&logo=svelte&logoColor=white)
+![Uno CSS](https://img.shields.io/badge/Uno_CSS-0d1117?style=for-the-badge&logo=unocss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Badges 📛
+
+Let me showcase my GitHub Stats here 😎
+
+![Lance Ross' GitHub Stats](https://github-readme-stats.vercel.app/api?username=lancerossdev&theme=github_dark&count_private=true&show_icons=true)
+
+### Let's Connect 🤝
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lancerossdev)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lancerossdev)
+[![My Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=astro&logoColor=white)](https://lanceross.xyz)
